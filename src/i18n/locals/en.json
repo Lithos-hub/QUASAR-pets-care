@@ -1,0 +1,15 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "myPets": "Mis mascotas",
+    "myReports": "Mis informes",
+    "calendar": "Calendario",
+    "help": "ayuda"
+  },
+  "page-newPet": {
+    "name": "Name",
+    "race": "Race",
+    "birthday": "Birthday",
+    "description": "Description"
+  }
+}

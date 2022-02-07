@@ -1,0 +1,11 @@
+// app global css in SCSS form
+@import './quasar.variables.scss';
+
+.gradient-primary {
+  background: $gradient_1;
+}
+
+.rounded-input {
+  background: white !important;
+  border-radius: 28px;
+}

@@ -1,0 +1,22 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "myPets": "Mis mascotas",
+    "myReports": "Mis informes",
+    "calendar": "Calendario",
+    "help": "Ayuda"
+  },
+  "navbarDesc": {
+    "home": "Página de inicio",
+    "myPets": "Gestionar mis mascotas",
+    "myReports": "Ver o generar informes",
+    "calendar": "Calendario, fechas y citas",
+    "help": "Ayuda y documentación"
+  },
+  "page-newPet": {
+    "name": "Nombre",
+    "race": "Raza",
+    "birthday": "Fecha de nacimiento",
+    "description": "Descripción"
+  }
+}
